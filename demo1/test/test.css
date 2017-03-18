@@ -1,0 +1,11 @@
+/*css文件*/
+.last{
+		width:100px;
+		height:100px;
+		background-color:#aaa;
+		font-size:14px;
+		font-weight: bold;
+		color:white;
+		line-height:100px;
+		text-align:center;
+	}
